@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstone
-## [IBM DATA SCIENCE](https://github.com/chongna95/IBM-Data-Science)
+## [IBM DATA SCIENCE Course 10](https://github.com/chongna95/IBM-Data-Science)
