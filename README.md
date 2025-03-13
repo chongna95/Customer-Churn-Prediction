@@ -22,3 +22,8 @@ This project predicts **customer churn** for a telecom company using **machine l
 1. Clone the repository:  
    ```bash
    git clone https://github.com/chongna95/Customer-Churn-Prediction.git
+
+2. Install dependencies:
+   ```bash
+   pip install pandas numpy seaborn scikit-learn matplotlib
+   
