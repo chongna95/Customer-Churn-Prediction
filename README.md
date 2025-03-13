@@ -26,4 +26,7 @@ This project predicts **customer churn** for a telecom company using **machine l
 2. Install dependencies:
    ```bash
    pip install pandas numpy seaborn scikit-learn matplotlib
-   
+
+## 🚀 Future Improvements
+- Train models with **Neural Networks** for better accuracy.
+- Deploy as a web app using **Streamlit** or **Flask API**.
